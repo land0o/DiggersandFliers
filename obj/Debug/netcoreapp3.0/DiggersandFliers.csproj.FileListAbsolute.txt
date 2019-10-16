@@ -1,0 +1,11 @@
+C:\Users\marla\workspace\c#\BookWork\DiggersandFliers\bin\Debug\netcoreapp3.0\DiggersandFliers.exe
+C:\Users\marla\workspace\c#\BookWork\DiggersandFliers\bin\Debug\netcoreapp3.0\DiggersandFliers.deps.json
+C:\Users\marla\workspace\c#\BookWork\DiggersandFliers\bin\Debug\netcoreapp3.0\DiggersandFliers.runtimeconfig.json
+C:\Users\marla\workspace\c#\BookWork\DiggersandFliers\bin\Debug\netcoreapp3.0\DiggersandFliers.runtimeconfig.dev.json
+C:\Users\marla\workspace\c#\BookWork\DiggersandFliers\bin\Debug\netcoreapp3.0\DiggersandFliers.dll
+C:\Users\marla\workspace\c#\BookWork\DiggersandFliers\bin\Debug\netcoreapp3.0\DiggersandFliers.pdb
+C:\Users\marla\workspace\c#\BookWork\DiggersandFliers\obj\Debug\netcoreapp3.0\DiggersandFliers.csprojAssemblyReference.cache
+C:\Users\marla\workspace\c#\BookWork\DiggersandFliers\obj\Debug\netcoreapp3.0\DiggersandFliers.AssemblyInfoInputs.cache
+C:\Users\marla\workspace\c#\BookWork\DiggersandFliers\obj\Debug\netcoreapp3.0\DiggersandFliers.AssemblyInfo.cs
+C:\Users\marla\workspace\c#\BookWork\DiggersandFliers\obj\Debug\netcoreapp3.0\DiggersandFliers.dll
+C:\Users\marla\workspace\c#\BookWork\DiggersandFliers\obj\Debug\netcoreapp3.0\DiggersandFliers.pdb
