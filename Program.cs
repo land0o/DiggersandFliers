@@ -27,7 +27,7 @@ namespace DiggersandFliers
             aquarium1.aquarium.Add(Corey);
 
             // print critters
-            // shows the type of animal not their names
+            // shows the type of animal nt their names
             foreach (var critters in aquarium1.aquarium)
             {
                 Console.WriteLine(critters);
