@@ -68,7 +68,7 @@ namespace DiggersandFliers
 
             public void Dig()
             {
-                System.Console.WriteLine("DIGGGGGGGGGGG!!!!");
+                System.Console.WriteLine("DIGGGGGGGGGG!!!!");
             }
             public void Swim()
             {
